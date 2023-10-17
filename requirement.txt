@@ -1,0 +1,4 @@
+langchain
+streamlit
+pypdf
+itertools
