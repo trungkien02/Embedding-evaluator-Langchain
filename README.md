@@ -1,7 +1,9 @@
 # Embedding evaluator Langchain
 
 **Run**
+
 `pip install -r requirement.txt`
+
 `streamlit run main.py`
 
 **Inputs**
